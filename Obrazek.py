@@ -14,8 +14,8 @@ window.fill(background_colour)
 # image_number = random.randint(0,1)
 # print("TEST IMAGE NUMBER:   !!   " + str(image_number))
 #images = []
-image0 = pygame.image.load('kochamcie.jpg')
-image1 = pygame.image.load('karusia.jpg')
+image0 = pygame.image.load('image0.jpg')
+image1 = pygame.image.load('image1.jpg')
 images = [image0, image1]
 
 class Obrazek:
